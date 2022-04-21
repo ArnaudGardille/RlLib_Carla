@@ -1,0 +1,10 @@
+ray[rllib]
+PyYAML
+paramiko
+scp
+boto3
+# Local prerequisites
+pygame
+tensorboard
+
+
